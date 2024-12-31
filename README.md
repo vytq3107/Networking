@@ -8,4 +8,4 @@ This is a network configuration simulation project with the goals of configuring
 - NAT Port Forwarding
 The PDF file in the repository will contain the configuration code
 
-Here is diagram:![image](https://github.com/user-attachments/assets/8d799d29-0fc8-4058-8236-31ef442af466)
+Here is diagram:![Picture2](https://github.com/user-attachments/assets/542332f1-a01a-46e0-b30b-8a9cf320a6c6)
